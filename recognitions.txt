@@ -1,0 +1,47 @@
+./unknown/test_picture.jpg,Zuhaib Khan
+./unknown/test_picture.jpg,Zuhaib Khan
+./unknown/test_picture.jpg,Prabhat Mishra
+./unknown/test_picture.jpg,no_persons_found
+./unknown/test_picture.jpg,Zuhaib Khan
+./unknown/test_picture.jpg,unknown_person
+./unknown/test_picture.jpg,Zuhaib Khan
+./unknown/test_picture.jpg,Zuhaib Khan
+./unknown/test_picture.jpg,Prabhat Mishra
+./unknown/test_picture.jpg,unknown_person
+./unknown/test_picture.jpg,Prabhat Mishra
+./unknown/test_picture.jpg,unknown_person
+./unknown/test_picture.jpg,Zuhaib Khan
+./unknown/test_picture.jpg,Prabhat Mishra
+./unknown/test_picture.jpg,Dr Akhilesh Yadav Sir
+./unknown/test_picture.jpg,unknown_person
+./unknown/test_picture.jpg,unknown_person
+./unknown/test_picture.jpg,unknown_person
+./unknown/test_picture.jpg,Miss Sweety Jain Maam
+./unknown/test_picture.jpg,unknown_person
+./unknown/test_picture.jpg,unknown_person
+./unknown/test_picture.jpg,Zuhaib Khan
+./unknown/test_picture.jpg,no_persons_found
+./unknown/test_picture.jpg,no_persons_found
+./unknown/test_picture.jpg,Dr Akhilesh Yadav Sir
+./unknown/test_picture.jpg,unknown_person
+./unknown/test_picture.jpg,Miss Sweety Jain Maam
+./unknown/test_picture.jpg,unknown_person
+./unknown/test_picture.jpg,Miss Sweety Jain Maam
+./unknown/test_picture.jpg,unknown_person
+./unknown/test_picture.jpg,unknown_person
+./unknown/test_picture.jpg,Zuhaib Khan
+./unknown/test_picture.jpg,no_persons_found
+./unknown/test_picture.jpg,no_persons_found
+./unknown/test_picture.jpg,Zuhaib Khan
+./unknown/test_picture.jpg,Mr Nagendra Sir
+./unknown/test_picture.jpg,Dr Akhilesh Yadav Sir
+./unknown/test_picture.jpg,Prabhat Mishra
+./unknown/test_picture.jpg,Mr Nagendra Sir
+./unknown/test_picture.jpg,Dean Sir
+./unknown/test_picture.jpg,Zuhaib Khan
+./unknown/test_picture.jpg,no_persons_found
+./unknown/test_picture.jpg,no_persons_found
+./unknown/test_picture.jpg,unknown_person
+./unknown/test_picture.jpg,unknown_person
+./unknown/test_picture.jpg,Mr Nagendra Sir
+./unknown/test_picture.jpg,Zuhaib Khan
